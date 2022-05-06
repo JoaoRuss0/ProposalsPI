@@ -1,4 +1,4 @@
-# proposals_pi
+# proposalspi
 
 ## Build Setup
 

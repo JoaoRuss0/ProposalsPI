@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'proposals_pi',
+    title: 'proposalspi',
     htmlAttrs: {
       lang: 'en'
     },
