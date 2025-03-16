@@ -15,9 +15,7 @@ $ npm run dev
 ![image](./images/image_top.png)
 
 <p align="center">
-    <code>
-    ...
-    </code>
+    <code>...</code>
 </p>
 
 ![image](./images/image_bottom.png)
